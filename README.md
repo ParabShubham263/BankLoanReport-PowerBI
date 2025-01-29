@@ -10,3 +10,10 @@ It features three key dashboards:
 + **Details Dashboard:** Offers a detailed view of key loan metrics and data points, enabling efficient access to critical information about loan portfolios, borrower profiles, and performance.
 
 ## Key Insights
+1. Out of a total of 38,576 loan applications, **86.2%** were classified as Good loans(current and fully paid), while **13.2%** were classified as Bad loans(charged off).
+2. Majority of loans were from **A, B, and C** grade.
+3. When comparing loan grades with interest rates, we observe a contrary increase in interest rates as we move to **lower grades (E, F, G)**. 
+4. Borrowers with **Rent(18,439)** and **Mortgage(17,198)** obligations contributes to a significant portion of loan applicants.
+5. The number of loans issued increased steadily each month, with a slight decrease in **February (2,279)**.
+6. Borrowers with an employment length of **10 years or more** are considered highly profitable and trustworthy. 
+
