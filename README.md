@@ -2,7 +2,7 @@
 *This repository contains file of Bank loan raw data.*
 
 ## Project Overview:
-The Bank Loan Analysis project aims to analyze various aspects of loan applications, including total funded amounts, repayment trends, and borrower characteristics. By leveraging Power BI, the project provides visual insights into loan performance metrics, helping banks optimize their lending strategies and assess risks effectively.
+The Bank Loan Analysis project aims to analyze various aspects of loan applications, including total funded amounts, repayment trends, and borrower characteristics. By leveraging Power BI, the project provides visual insights into loan performance metrics, helping banks optimize their lending strategies and assess risks effectively.Also utilized MySQL to create and execute SQL queries, validating insights derived from the dashboards.
 
 It features three key dashboards:  
 + **Summary Dashboard:** An overall view of KPIs and a Loan Status Grid provides a comprehensive assessment of the health of our loan portfolio.
